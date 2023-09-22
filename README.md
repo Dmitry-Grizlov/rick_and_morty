@@ -1,5 +1,5 @@
 # Rick and Morty
-<h3><b>Golang/HTMX</b> website consuming <a href="https:/rickandmortyapi.com/">Rick and Morty API</a>.</h5>
+<h3><b>Golang/HTMX</b> website consuming <a href="https://github.com/afuh/rick-and-morty-api" target="_blank">Rick and Morty API</a>.</h5>
 
 This repository was created to train the golang`s *html/template* library skills and learn the basics of *HTMX*. There will be no DB interactions, just a webserver sending outgoing requests to the api and listening to the incoming requests from the UI.
 
